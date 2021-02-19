@@ -4,3 +4,5 @@ A recent article on Forbes magazine highlights the problem of missing medical ap
 
 ## Objective
 To create a Machine Learning algorithm to predict medical appointment No-shows, thus, reducing health and economic impact of this phenomenon
+
+![alt text](https://miro.medium.com/max/1000/1*sowyTHTGeEbOrCTIwqJYBQ.jpeg)
