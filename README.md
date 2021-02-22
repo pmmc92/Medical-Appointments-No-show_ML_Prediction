@@ -5,7 +5,8 @@
 2. [Objective](#Objective)
 3. [Environment](#Environment)
 4. [Dataset Used](#Dataset-Used)
-5. [Main Findings of Data Analysis](#Main-Findings-of-DataAnalysis)
+5. [Main Findings of Data Analysis](#Main-Findings-of-Data-Analysis)  
+6. [Age and Gender](#Age-and-Gender)  
 
 ## Introduction
 A recent article on Forbes magazine highlights the problem of missing medical appointments. One study found that medical no-shows cost the United  States healthcare system more than $150 billion a year and individual physicians an average of $200 per unused time slot. Apart from the economic issue, there is also consider the individual implications of no-shows on health. When patients miss appointments, continuity of care is interrupted. Medication efficacy can’t be monitored regularly. Preventive services and screenings can’t be delivered in a timely manner. Acute illnesses are more likely to go untreated and become chronic conditions with complications. In short, missing an appointment can be severely detrimental to one’s health. At the European level there are some small unicentric studies that signal the same problem and an equivalent economic cost. 
@@ -51,3 +52,32 @@ There is no missing data on the dataset
 
 
 ## Main Findings of Data Analysis
+### Age and Gender
+
+![Age and Gender](/graphs/age_gender.png)
+
+* Age distribution by gender is fairly similar
+* The majority of people are active adults but there are also a large number of babies and small children
+
+### Missing Consultation
+
+![Missed Consultation](/graphs/missing_consultations.png)
+
+* There is a significant percentage of missed appointments
+
+### Variables and No-shows
+
+![Variables](/graphs/variables.png)
+
+* Receiving an SMS did not contribute to increase the atending (the contrary seems more likely!)
+* The other variables seem to present little variance between the shows and no-shows
+
+### Location
+
+![Location](/graphs/neighbourhood.png)
+
+* City location is an important factor to take in account!
+
+
+
+
