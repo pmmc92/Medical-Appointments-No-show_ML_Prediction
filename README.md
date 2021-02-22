@@ -12,6 +12,9 @@
   * [Missing Consultation](#Missing-Consultation)
   * [Variables and No-shows](#Variables-and-No-shows)
   * [Location](#Location)
+  * [Correlation](#Correlation)
+* [Machine Learning](#Applied-Machine-Learning)
+  * [Feature Importance](#Feature-Importance)
 
 
 ## Introduction
